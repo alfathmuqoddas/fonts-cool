@@ -1,5 +1,4 @@
 # fonts-cool
--------------
 - JetBrains Mono
 - Arimo
 - Cousine
