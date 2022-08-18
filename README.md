@@ -1,6 +1,6 @@
 # fonts-cool
 Some of my favorite fonts to replace default sans serif, serif, and mono font in linux
-Fonts included:
+## Fonts included:
 - JetBrains Mono
 - Arimo
 - Cousine
